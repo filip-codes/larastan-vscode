@@ -3,6 +3,7 @@
   "displayName": "Larastan",
   "description": "The Larastan extension for Visual Studio Code",
   "version": "0.1.0",
+  "publisher": "studio",
   "engines": {
     "vscode": "^1.99.0"
   },
