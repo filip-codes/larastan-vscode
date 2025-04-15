@@ -10,11 +10,7 @@
   "repository": {
     "url": "https://github.com/filip-codes/larastan-vscode"
   },
-  "categories": [
-    "Laravel",
-    "PHP",
-    "Code Quality"
-  ],
+  "categories": [],
   "activationEvents": [
     "onStartupFinished",
     "onLanguage:php"
